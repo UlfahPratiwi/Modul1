@@ -1,3 +1,4 @@
+## Laihan Modul1 Nomor 1
 
 # Algoritma Membuat Roti :
 
@@ -40,5 +41,17 @@ Proses :
   3. Output : Tampilan rata - rata
 
 Selesai
+
+
+## Latihan Modul1 Nomor 2
+
+# Sistem Bilangan Desimal
+# Sistem Bilangan Biner
+# Sistem Bilangan Oktal
+# Sistem Bilangan Heksadesimal
+# Konversi Desimal ke Biner / Biner ke Desimal
+# Konversi Desimal ke Oktal/Heksadesimal dan Oktal/Heksadesimal ke Desimal
+# Konversi Biner ke Oktal dan Oktal ke Biner
+# Biner ke Heksadesimal dan Heksadesimal ke Biner
 
 
