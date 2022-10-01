@@ -1,4 +1,4 @@
-Algoritma Membuat Roti :
+1.) Algoritma Membuat Roti :
 
 Mulai
 
@@ -14,7 +14,7 @@ Proses :
   
 Selesai
 
-Algoritma Menggunakan PC Labor :
+2.) Algoritma Menggunakan PC Labor :
 
 Mulai 
 
@@ -26,6 +26,15 @@ Proses :
 
 Selesai
 
-Algoritma 
+3.) Algoritma Menghitung Rata - rata 3 buah bilangan :
+
+Mulai
+
+Proses :
+  1. Input --> Masukkan nilai x,y,z
+  2. Proses: Jumlah = x + y + z  kemudian cari Rata - rata = jumlah/3
+  3. Output : Tampilan rata - rata
+
+Selesai
 
 
