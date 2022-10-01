@@ -1,4 +1,5 @@
 Algoritma Membuat Roti :
+
 1. Mulai
 2. Siapkan peralatan membuat roti seperti baskom,bantalan adonan,mixer,cetakan,oven,dan lainnya
 3. Sediakan bahan untuk membuat roti yaitu tepung 200 gram,gula 100 gram,air 300 ml,mentega,dan lainnya
