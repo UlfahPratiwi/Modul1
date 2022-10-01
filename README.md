@@ -1,6 +1,6 @@
-## Laihan Modul1 Nomor 1
+# Laihan Modul1 Nomor 1
 
-# Algoritma Membuat Roti :
+## Algoritma Membuat Roti :
 
 Mulai
 
@@ -17,7 +17,7 @@ Proses :
 Selesai
 
 
-# Algoritma Menggunakan PC Labor :
+## Algoritma Menggunakan PC Labor :
 
 Mulai 
 
@@ -30,7 +30,7 @@ Proses :
 Selesai
 
 
-# Algoritma Menghitung Rata - rata 3 buah bilangan :
+## Algoritma Menghitung Rata - rata 3 buah bilangan :
 
 Mulai
 
@@ -43,15 +43,15 @@ Proses :
 Selesai
 
 
-## Latihan Modul1 Nomor 2
+# Latihan Modul1 Nomor 2
 
-# Sistem Bilangan Desimal
-# Sistem Bilangan Biner
-# Sistem Bilangan Oktal
-# Sistem Bilangan Heksadesimal
-# Konversi Desimal ke Biner / Biner ke Desimal
-# Konversi Desimal ke Oktal/Heksadesimal dan Oktal/Heksadesimal ke Desimal
-# Konversi Biner ke Oktal dan Oktal ke Biner
-# Biner ke Heksadesimal dan Heksadesimal ke Biner
+## Sistem Bilangan Desimal
+## Sistem Bilangan Biner
+## Sistem Bilangan Oktal
+## Sistem Bilangan Heksadesimal
+## Konversi Desimal ke Biner / Biner ke Desimal
+## Konversi Desimal ke Oktal/Heksadesimal dan Oktal/Heksadesimal ke Desimal
+## Konversi Biner ke Oktal dan Oktal ke Biner
+## Biner ke Heksadesimal dan Heksadesimal ke Biner
 
 
