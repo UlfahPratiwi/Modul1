@@ -1,4 +1,4 @@
-1.) Algoritma Membuat Roti :
+# Algoritma Membuat Roti :
 
 Mulai
 
@@ -14,7 +14,7 @@ Proses :
   
 Selesai
 
-2.) Algoritma Menggunakan PC Labor :
+# Algoritma Menggunakan PC Labor :
 
 Mulai 
 
@@ -26,7 +26,7 @@ Proses :
 
 Selesai
 
-3.) Algoritma Menghitung Rata - rata 3 buah bilangan :
+# Algoritma Menghitung Rata - rata 3 buah bilangan :
 
 Mulai
 
